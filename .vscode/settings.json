@@ -1,0 +1,7 @@
+{
+    "editor.parameterHints.enabled": false,
+    "javascript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false,
+    "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false,
+    "rust-analyzer.inlayHints.renderColons": true,
+    "rust-analyzer.inlayHints.parameterHints": false
+}
